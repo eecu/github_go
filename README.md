@@ -73,7 +73,7 @@ GitHub API Key Scanner 是一个专门用于扫描 GitHub 上泄露的 API 密�
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/github-api-key-scanner.git
+git clone https://github.com/eecu/github_go.git
 cd github-api-key-scanner
 ```
 
